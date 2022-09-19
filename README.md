@@ -29,6 +29,8 @@ I am an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUI
 
 - :telescope: Currently working towards my Master's Degree.
 
+- :bulb: Interested in back-end Software Development.
+
 - :seedling: Exploring the inner workings of Object Oriented Programming.
 
 - ☄️ In my free time I experiment with a multitude of programming languages and tools.
