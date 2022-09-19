@@ -25,7 +25,7 @@
 ---
 <!-- about me section  -->
 ### :man_technologist: About Me :
-I am an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">  from Greece.
+I am Dimosthenis, an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">  from Greece.
 
 - :telescope: Currently working towards my Master's Degree.
 
