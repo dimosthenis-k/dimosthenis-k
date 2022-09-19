@@ -17,7 +17,7 @@
 <img src="https://media.giphy.com/media/lnORolcv2a0224p4y3/giphy.gif" width="70px"/>
     </h1>
     <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   </div>
 </div>
@@ -29,9 +29,9 @@ I am an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUI
 
 - :telescope: Currently working towards my Master's Degree.
 
-- :seedling: Exploring the inner workings of programming languages.
+- :seedling: Exploring the inner workings of Object Oriented Programming.
 
-- ☄️ In my free time, I experiment with a multitude of programming languages and tools.
+- ☄️ In my free time I experiment with a multitude of programming languages and tools.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dimosthenis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimosthenis-karampinas-00971a217/)
 
@@ -52,7 +52,16 @@ I am an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUI
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vs" alt="visualstudio" width="40" height="40"/>&nbsp;
 <div>
+
+<!-- stats section  -->
+ ---
+  
+ ### 🧑‍🔬 My Stats:
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dimosthenis-k&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimosthenis-k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
