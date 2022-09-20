@@ -27,7 +27,7 @@
 ### :man_technologist: About Me
 I am Dimosthenis, an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">  from Greece.
 
-:telescope: Currently working towards my Master's Degree.
+:telescope: Currently working towards my Master's Degree in University of Piraeus.
 
 :bulb: Interested in back-end Software Development.
 
