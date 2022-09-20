@@ -24,18 +24,20 @@
 
 ---
 <!-- about me section  -->
-### :man_technologist: About Me :
+### :man_technologist: About Me
 I am Dimosthenis, an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">  from Greece.
 
-- :telescope: Currently working towards my Master's Degree.
+:telescope: Currently working towards my Master's Degree.
 
-- :bulb: Interested in back-end Software Development.
+:bulb: Interested in back-end Software Development.
 
-- :seedling: Exploring the inner workings of Object Oriented Programming.
+🎓 Bachelor's Degree in Economics.
 
-- ☄️ In my free time I experiment with a multitude of programming languages and tools.
+:seedling: Exploring the inner workings of Object Oriented Programming.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dimosthenis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimosthenis-karampinas-00971a217/)
+☄️ In my free time I experiment with a multitude of programming languages and tools.
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dimosthenis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimosthenis-karampinas-00971a217/)
 
 <!-- languages and tools section -->
 ---
