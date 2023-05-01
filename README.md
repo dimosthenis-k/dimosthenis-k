@@ -22,12 +22,11 @@
   </div>
 </div>
 <!-- about me section  -->
-:man_technologist: ###About Me
-I am Dimosthenis, an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">  from Greece.
+:man_technologist: I am Dimosthenis, an MSc in Informatics student <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
 
 :telescope: Currently working towards my Master's Degree in University of Piraeus.
 
-:bulb: Interested in back-end Software Development.
+:bulb: Interested in back-end and full-stack Software Development.
 
 🎓 Bachelor's Degree in Economics.
 
