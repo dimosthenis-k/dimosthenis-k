@@ -22,7 +22,7 @@
   </div>
 </div>
 <!-- about me section  -->
-:man_technologist: I am Dimosthenis, an Informatics student and coding/ tech enthusiast<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
+:man_technologist: I am Dimosthenis, an Informatics student and coding/ tech enthusiast.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
 
 :telescope: Currently working towards my Master's Degree in University of Piraeus.
 
