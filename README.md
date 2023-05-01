@@ -21,7 +21,6 @@
   </div>
   </div>
 </div>
----
 <!-- about me section  -->
 ### :man_technologist: About Me
 I am Dimosthenis, an Informatics student  <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">  from Greece.
