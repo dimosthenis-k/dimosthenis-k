@@ -27,7 +27,7 @@
 
 :telescope: Currently working towards my Master's Degree in University of Piraeus.
 
-:bulb: Interested in back-end and full-stack Software Development.
+:bulb: Interested in Back-End and Full-Stack Web Development.
 
 🎓 Bachelor's Degree in Economics.
 
