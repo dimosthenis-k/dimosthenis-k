@@ -33,7 +33,7 @@
 
 :seedling: Exploring the inner workings of Object Oriented Programming.
 
-☄️ In my free time I experiment with a multitude of programming languages and tools.
+☄️ In my free time I like to experiment with new technologies, tools, and learn new concepts.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dimosthenis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimosthenis-karampinas-00971a217/)
 
