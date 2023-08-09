@@ -31,7 +31,7 @@
 
 🎓 Bachelor's Degree in Economics.
 
-:seedling: Exploring the inner workings of the Web.
+🥽 Exploring the inner workings of the Web 🕸️.
 
 ☄️ In my free time I like to experiment with new technologies, tools, and learn new concepts.
 
