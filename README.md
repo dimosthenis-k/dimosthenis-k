@@ -25,7 +25,7 @@
 
 :man_technologist: I am Dimosthenis, a Junior Software Engineer and coding/ tech enthusiast.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
 
-:telescope: Currently working towards my Master's Degree in University of Piraeus.
+:telescope: Currently working towards my MSc in Informatics in University of Piraeus.
 
 :bulb: Interested in Back-End and Full-Stack Web Development.
 
