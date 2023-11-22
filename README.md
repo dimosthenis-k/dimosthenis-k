@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
   
 <!--  badges section --> 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/dimosthenis-karampinas-00971a217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<p>
+  <a href="https://linkedin.com/in/dkarampinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
+</p>
   <a href="mailto:dkarampinas96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/><br>
   </a>  
@@ -55,14 +55,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 <div>
  <br>
-
----
-
-<h3>📫 Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/dkarampinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
-</p>
 
  ---
   
