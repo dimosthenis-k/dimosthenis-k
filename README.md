@@ -7,9 +7,9 @@
 <a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
 </p>
   <a href="mailto:dkarampinas96@gmail.com">
-<div align="center"
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/><br>
   </a>  
+<div align="center"
 <!--     <img src="https://komarev.com/ghpvc/?username=dimosthenis-k&style=flat-square&color=blue" alt=""/> -->
     <h1>
 <!-- greetings section -->
