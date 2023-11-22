@@ -33,15 +33,9 @@
 
 ☄️ In my free time I like to experiment with new technologies, tools, and learn new concepts.
 
+---
 
 <!-- languages and tools section -->
----
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/dkarampinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
-</p>
-
 ### 💻 Tech :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -62,9 +56,17 @@
 <div>
  <br>
 
-<!-- stats section  -->
+---
+
+<h3>📫 Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/dkarampinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
+</p>
+
  ---
   
+<!-- stats section  -->
  ### 🧑‍🔬 My Stats:
   [![GitHub Streak](https://streak-stats.demolab.com?user=dimosthenis-k&theme=gotham&border_radius=5)](https://git.io/streak-stats)
  
