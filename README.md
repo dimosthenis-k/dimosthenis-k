@@ -10,10 +10,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/><br>
   </a>  
 <div align="center"
-    <h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 <!-- greetings section -->
-    hey 
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+    <h1>hey</h1>
 <img src="https://media.giphy.com/media/tgdAjNDxbSx9POsllT/giphy.gif"  width="40px">
 <!-- <img src="https://media.giphy.com/media/lnORolcv2a0224p4y3/giphy.gif" width="70px"/> -->
     </h1>
