@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
   
 <!--  badges section --> 
-<div align="center"
 <p>
   <a href="https://linkedin.com/in/dkarampinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
 </p>
   <a href="mailto:dkarampinas96@gmail.com">
+<div align="center"
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/><br>
   </a>  
 <!--     <img src="https://komarev.com/ghpvc/?username=dimosthenis-k&style=flat-square&color=blue" alt=""/> -->
@@ -19,9 +19,8 @@
 <!-- <img src="https://media.giphy.com/media/lnORolcv2a0224p4y3/giphy.gif" width="70px"/> -->
     </h1>
   </div>
-  </div>
-</div>
 <!-- about me section  -->
+<div align="center">
 
 :man_technologist: I am Dimosthenis, a Junior Software Engineer and coding/ tech enthusiast.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
 
@@ -34,10 +33,10 @@
 ☄️ In my free time I like to experiment with new technologies, tools, and learn new concepts.
 
 ---
-
+</div>
 <!-- languages and tools section -->
 ### 💻 Tech :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://camo.githubusercontent.com/2cbbf5ca53964ce3051c6e93fbdd681459487365c5e0b9b7ab638587767506f9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="TS" alt="JS" width="40" height="40"/>&nbsp;
