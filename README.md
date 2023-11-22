@@ -28,6 +28,7 @@
 ☄️ In my free time I like to experiment with new technologies, tools, and learn new concepts.
 
 ---
+
 </div>
 <!-- languages and tools section -->
 <h3>💻 Tech :</h3>
