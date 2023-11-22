@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
   
 <!--  badges section --> 
+<div align="center"
 <p>
   <a href="https://linkedin.com/in/dkarampinas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dimosthenis k." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
@@ -17,7 +18,6 @@
 <img src="https://media.giphy.com/media/tgdAjNDxbSx9POsllT/giphy.gif"  width="40px">
 <!-- <img src="https://media.giphy.com/media/lnORolcv2a0224p4y3/giphy.gif" width="70px"/> -->
     </h1>
-    <div align="center"
   </div>
   </div>
 </div>
