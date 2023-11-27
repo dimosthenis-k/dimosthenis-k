@@ -3,7 +3,7 @@
   
 <!--  badges section --> 
 <p>
-<img href=https://www.linkedin.com/in/dkarampinas" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" />
+<a href="https://www.linkedin.com/in/dkarampinas/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimosthenis-k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Dimosthenis_K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dimosthenis k." height="30" width="40" /></a>
 </p>
   <a href="mailto:dkarampinas96@gmail.com">
