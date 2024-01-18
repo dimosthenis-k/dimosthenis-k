@@ -54,8 +54,9 @@
 
  ---
   
-<!-- stats section  -->
+<!-- stats section
  ### 🧑‍🔬 My Stats:
   [![GitHub Streak](https://streak-stats.demolab.com?user=dimosthenis-k&theme=gotham&border_radius=5)](https://git.io/streak-stats)
+ -->
  
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimosthenis-k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
