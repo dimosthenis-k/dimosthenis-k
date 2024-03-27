@@ -21,7 +21,7 @@
 
 :telescope: MSc in Informatics - University of Piraeus.
 
-:bulb: Interested in Back-End and Full-Stack Web Development.
+:bulb: Interested in Full-Stack Web Development.
 
 🥽 Exploring the inner workings of the Web.🕸️
 
