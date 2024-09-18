@@ -17,7 +17,7 @@
 <!-- about me section  -->
 <div align="center">
 
-:man_technologist: I am Dimosthenis, a Junior Software Engineer and coding/ tech enthusiast.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
+:man_technologist: I am Dimosthenis, a Full Stack Software Engineer and coding/ tech enthusiast.<img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="20">
 
 :telescope: MSc in Informatics - University of Piraeus.
 
